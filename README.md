@@ -1,7 +1,7 @@
 # TikTok_scrape
 A python tiktok scraper tool for UNIX systems. 
 
-||| Before attempting to use download python, selenium, chrome, and yt-dlp |||
+||| Before attempting to use, download python, selenium, chrome, and yt-dlp |||
 
 
 
