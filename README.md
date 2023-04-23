@@ -1,8 +1,9 @@
 # TikTok_scrape
 A python tiktok scraper tool for UNIX systems. 
 
-||| Before attempting to use, download python, selenium, chrome, and yt-dlp |||
+As of right now the script is using selenium to scroll through a page, like on an actual browser, like how a human would. This is primitive as hell, so I'm gonna try and find a way to use curl. If yt-dlp updates their tiktok downloading this will be totally obsolete. 
 
+||| Before attempting to use, download python, selenium, chrome, and yt-dlp |||
 
 
 To use:
